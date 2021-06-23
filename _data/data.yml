@@ -7,19 +7,19 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
-  tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
-  avatar: profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
+  name: José Ricardo Ricardo Jiménez Campos # Nombre completo
+  tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  avatar: image_profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
+  email: joserjc.96@gmail.com
+  phone: 312-174-1835
   website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
-  gitlab:
+  linkedin: Jose Ricardo Jimenez
+  github: JoseRicardoJimenez
+  gitlab: '@JoseRicardoJimenez'
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: '@JozeJimnez'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -27,13 +27,10 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: Competent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
-
-    - idiom: German
-      level: Colloquial
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
@@ -46,43 +43,43 @@ sidebar:
     - item: Time Management
       link: # dejar en blanco
 
+    - item: Analytical
+      link: # dejar en blanco  
+
+    - item: Persistent
+      link: # dejar en blanco  
+
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    I am a young man who likes to interpret things. A good morning, a good time with friends or a good day programming. I am a computer systems engineer. 
+    A few years ago, I was very curious about systems development. It was there that little by little I entered this beautiful world. At first studying language syntax. 
+    Now I know which line is the one that I like within the development and I want to continue.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
+  - degree: Computer Systems Engineer
+    university: ICEP campus Colima
+    time: 2018-2019
     details: |
+        - Computer equipment repair
+        - Programming 
+        - algorithm analysis
 
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
+  - degree: Computer Systems Engineer
+    university: TecNM campus colima
+    time: 2014 - 2018
     details: |
-      Unsupervised deep learning for automatic behavior analysis
+        - Computer equipment repair
+        - Programming 
+        - Algorithm analysis
+        - Databases function
 
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
+  - degree: IT tachnician
+    university: CBTIs 157
+    time: 2011 - 2014
     details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
@@ -125,20 +122,20 @@ skills:
     - name: Python
       level: 20%
 
-    - name: PyTorch
-      level: 40%
-
-    - name: Tensorflow
+    - name: Java
       level: 60%
 
-    - name: Caffe
-      level: 80%
+    - name: CSS
+      level: 60%
 
-    - name: Matlab
-      level: 100%
-
-    - name: C/C++
+    - name: JavaScript
       level: 40%
+
+    - name: Ruby
+      level: 20%
+
+    - name: Rails
+      level: 20%
 
 # NO MODIFICAR
 footer: >
