@@ -85,21 +85,18 @@ educationcomplete:
 experiences:
   - role: Web Admin on Wordpress
     time: 2017 - 2020
-    company: Startup Hubs, San Francisco
+    company: Esfera de la Comunicación and Victorios, Colima.
     details: |
       Repair bugs and configure the utilities of the page. 
       Add and remove plugins manage and configure them. Make 
       design modifications.
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Intern Software Engineer
+    time: 2019 - 2020
+    company: State Government offices, Colima.
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      Web administrator of the configurations in the web pages of the 
+      secretariats and government departments of the state.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
