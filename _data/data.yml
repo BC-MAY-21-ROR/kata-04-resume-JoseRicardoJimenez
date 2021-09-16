@@ -7,7 +7,7 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: José Ricardo Ricardo Jiménez Campos # Nombre completo
+  name: José Ricardo Jiménez Campos # Nombre completo
   tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: image_profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
 
@@ -83,21 +83,13 @@ educationcomplete:
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
+  - role: Web Admin on Wordpress
+    time: 2017 - 2020
     company: Startup Hubs, San Francisco
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      Repair bugs and configure the utilities of the page. 
+      Add and remove plugins manage and configure them. Make 
+      design modifications.
 
   - role: Senior Software Engineer
     time: 2014 - 2015
@@ -132,10 +124,10 @@ skills:
       level: 40%
 
     - name: Ruby
-      level: 20%
+      level: 60%
 
     - name: Rails
-      level: 20%
+      level: 60%
 
 # NO MODIFICAR
 footer: >
